@@ -1,12 +1,19 @@
 # Distracted_Driver_Detection
 This is a project done for CMPE255-Data Mining. It aims at understanding and analyzing the different types of Convolutional Neural Networks by solving the distracted drivers problem
+
 References:
 [1] https://neurohive.io/en/popular-networks/vgg16/
+
 [2]https://engmrk.com/lenet-5-a-classic-cnn-architecture/
+
 [3] https://keras.io/applications/
+
 [4] https://keras.io/preprocessing/image/
+
 [5]https://github.com/hbhasin/Image-Recognition-with-Deep-Learning/blob/master/Image%20Classification%20with%20Transfer%20Learning.md
+
 [6]https://tariq-hasan.github.io/concepts/computer-vision-cnn-architectures/
+
 [7]https://www.researchgate.net/figure/BgN-Score-ensemble-neural-network-SF-using-bagging-approach_fig3_273153116
 [8]https://towardsdatascience.com/ensembling-convnets-using-keras-237d429157eb
 [9]https://towardsdatascience.com/review-nin-network-in-network-image-classification-69e271e499ee
